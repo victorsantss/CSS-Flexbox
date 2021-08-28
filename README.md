@@ -18,3 +18,14 @@ $ git clone https://github.com/victorsantss/CSS-Flexbox.git
 ### 🖥️ Iniciando a aplicação
 
 -Abra o arquivo index.html
+
+### 🔗 Link do projeto online
+
+[FlexBlog](https://victorsantss.github.io/CSS-Flexbox/)
+
+<hr />
+
+<p align="center">This project was made with 💙 by Victor Santos</p>
+
+
+
